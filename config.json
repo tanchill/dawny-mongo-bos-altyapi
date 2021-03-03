@@ -1,0 +1,48 @@
+{    
+    "bot": {
+        "token": "token",
+        "developers": ["DawnID"],
+        "prefixes": ["!", "istediğin_kadar_prefix_ekleyebilirsin"],
+        "status": ["Dawn", "Dawn Altyapı", "Dawn Mongo Altyapı"],
+        "mongoDB": "mongo link"
+    },
+    
+    
+    "roles": {
+        "booster": "",
+        "muted": "",
+        "jailed": "",
+        "vip": "",
+        "male": [],
+        "female": [],
+        "unregistered": "",
+        "registerStaff": "",
+        "banHammer": "",
+        "muteHammer": "",
+        "jailHammer": "",
+        "vokal": ""
+    },
+
+    "channels": {
+        "lıg": "",
+        "botVoiceChannel": ""
+    },
+
+    "reactions": {
+        "yes": "",
+        "no": "",
+        "error": "",
+        "info": ""
+    },
+
+    "emojis": {
+        "yes": "",
+        "no": "",
+        "error": "",
+        "warning": "",
+        "info": ""
+
+    }
+    
+
+}
